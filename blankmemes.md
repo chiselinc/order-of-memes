@@ -80,3 +80,69 @@ Note: I'm attempting "broad strokes summary" in the alt-text of these commons me
 ![Karate Kyle is a school picture-in-picture of a kid who is ready to stop taking crap from people, with his red karate uniform](../blankmemes/Karate-Kyle_blank.jpg)
 
 ![2 panel: Kombucha girl doesn't like the first option, but is willing to consider the second option](../blankmemes/kombuchagirl_blankmeme.png)
+
+![Nixon and some other presumably corrupt and terrible old men are laughing at BLANK](../blankmemes/Laughing-Men-In-Suits_blank.jpg)
+
+![Lisa Simpson announces BLANK to an auditorium](../blankmemes/lisasimpson_blankmeme.jpg)
+
+![4 panel comic: "Thanks to the miracle of the World Wide Web, I can talk to anyone around the globe" "BLANK" "Marvelous"](../blankmemes/marvelous_blankmeme.png)
+
+![Reality TV Show Host Maury Povich has determined that BLANK is a lie](../blankmemes/Maury-Lie-Detector_blank.jpg)
+
+![South Park's "Member Berries" ask you if you remember BLANK](../blankmemes/Member-Berries_blank.jpg)
+
+![Mugatu from Zoolander says that BLANK is "So hot right now"](../blankmemes/Mugatu-So-Hot-Right-Now_blank.jpg)
+
+![3 panel "Teen Comix" from Branso 2015: "No Fear" "BLANK" "One Fear"](../blankmemes/onefear_blankmeme.jpg)
+
+![Spiderman says about BLANK, "That painting LOOKS the way I feel!"](../blankmemes/paintinglooks_blankmeme.png)
+
+![3 panels descending: a head says "Panik", "Kalm", "Panik"](../blankmemes/panik_blankmeme.png)
+
+![2 panel Perry Bible Fellowship comic: a student is handed a piece of paper and doesn't like that it says "BLANK"](../blankmemes/PBF_blankmeme.png)
+
+![4 panels: Pennywise the Clown from IT says BLANK and a person slides into the sewer entry to join him](../blankmemes/pennywise_blankmeme.jpg)
+
+![3 panel comic set in prison: "I killed a man, and you?" Response: BLANK, original speaker moves as far away as possible](../blankmemes/prison_blankmeme.jpg)
+
+![2 panel from The Walking Dead: Rick Grimes tells his son Carl something, looking sad but making a dad joke](../blankmemes/Rick-and-Carl_blank.jpg)
+
+![3 panel descending comic: Child sees BLANK, mother says not to look at them, "It is too late Mother, I have seen everything"](../blankmemes/seeneverything_blankmeme.gif)
+
+![2 panels descending of NBA star Shaquille O'Neal: "I sleep", "Real shit"](../blankmemes/Sleeping-Shaq_blank.jpg)
+
+![Bill Murray in Caddyshack says "I got that goin for me which is nice"](../blankmemes/So-I-Got-That-Goin-For-Me-Which-Is-Nice_blank.jpg)
+
+![2 panels descending: Tobey McGuire in Spiderman puts on his glasses and sees something better](../blankmemes/spiderman_blankmeme.jpg)
+
+![Diagram of causes of different headache types, with the 4th and worst being BLANK](../blankmemes/stress_blankmeme.jpg)
+
+![Classic meme: "Sudden Clarity Clarence" realizes BLANK at a concert](../blankmemes/Sudden-Clarity-Clarence_blank.jpg)
+
+![2 panels across: "me telling my mom BLANK" and mom looks surprised or disturbed](../blankmemes/tellingmymom_blank.png)
+
+![The unpleasant boss from Office Space says "If you could BLANK, that would be great"](../blankmemes/That-Would-Be-Great_blank.jpg)
+
+![2 panels descending: Pam from The Office is asked to identify the differences between two pictures, and she says "They're the same picture"](../blankmemes/They're-The-Same-Picture_blank.jpg)
+
+![2 panels across: cartoon of a dog sitting in a house on fire, saying "This is fine"](../blankmemes/This-Is-Fine_blank.jpg)
+
+![2 panels descending: the father from Fairly Oddparents says "This is where I'd put my BLANK... if I HAD ONE"](../blankmemes/This-Is-Where-Id-Put-My-Trophy-If-I-Had-One_blank.jpg)
+
+![Jimmy McMillan tells us "The BLANK is too damn high!"](../blankmemes/Too-Damn-High_blank.jpg)
+
+![Will Ferrell in Anchorman says "Well, that escalated quickly"](../blankmemes/Well-That-Escalated-Quickly_blank.jpg)
+
+![A claymation pirate says "Well yes, but actually no"](../blankmemes/Well-Yes-But-Actually-No_blank.jpg)
+
+![Robin Williams in the original Jumanji yells "What year is it?"](../blankmemes/What-Year-Is-It_blank.jpg)
+
+![Template for "Who would win" in BLANK versus BLANK](../blankmemes/Who-Would-Win_blank.jpg)
+
+![2 panels descending: cartoon Wolverine from X-men is fondly looking at a framed picture of BLANK](../blankmemes/wolverine_blankmeme.jpg)
+
+![Cartoon drawing of BLANK all the THINGS](../blankmemes/X-All-The-Y_blank.jpg)
+
+![Buzz Lightyear is telling Woody from Toy Story "BLANK, BLANK Everywhere!"](../blankmemes/X-X-Everywhere_blank.jpg)
+
+![Xzibit from Pimp My Ride says "Yo Dawg I heard you like BLANK so we put BLANK in your BLANK"](../blankmemes/Yo-Dawg-Heard-You_blank.jpg)
