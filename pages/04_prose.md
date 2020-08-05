@@ -1,7 +1,7 @@
 ---
 layout: default
 title: The prose of the world
-permalink: /p05/
+permalink: /prose/
 nav_order: 2
 ---
 

@@ -1,13 +1,11 @@
 ---
 layout: default
 title: Classifying
-permalink: /p08/
+permalink: /classifying/
 nav_order: 2
 ---
 
 The description of natural things based upon their visible elements, and the attempt to establish a sense of ordered classes of “character” from those jumbled and diverse characteristics- 
-
-“Structure is that designation of the visible which, by means of a kind of pre-linguistic sifting, enables it to be transcribed into language [...] not only must it designate all natural entities very precisely, but it must also situation them within the system of identities and differences that unitees them to and distinguishes them from all the others. Natural history must provide, simultaneously, a certain designation and a controlled derivation.” (Foucault, 1970, p. 138)
 
 [Linnaeus](https://en.wikipedia.org/wiki/Systema_Naturae) introduced a system which was arbitrary and relative, but became the skeleton to an increasingly universalized and extensible framework for categorizing known life forms 
 

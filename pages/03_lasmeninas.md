@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Las Meninas
-permalink: /p04/
+permalink: /lasmeninas/
 nav_order: 2
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Representing
-permalink: /p06/
+permalink: /representing/
 nav_order: 2
 ---
 

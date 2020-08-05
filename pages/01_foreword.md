@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Foreword
-permalink: /p02/
+permalink: /foreword/
 nav_order: 2
 ---
 

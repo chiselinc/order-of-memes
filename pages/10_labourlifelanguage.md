@@ -1,6 +1,6 @@
 ---
 layout: default
 title: Labour, life, language
-permalink: /p10/
+permalink: /labourlifelanguage/
 nav_order: 2
 ---

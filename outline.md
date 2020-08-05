@@ -7,9 +7,18 @@ nav_order: 3
 
 # 1 - Introduction
 
-* what led me to create this digital knowledge-object
-* [if building in JS, situate the multimedia element of the object]
+
 * the central "why" - I went to trace other uses of [Foucault's "The Order of Things"](https://en.wikipedia.org/wiki/The_Order_of_Things) within the LIS field, and found few citations upstream
+
+
+Like most studies, this one started with a lit review. I went seeking traces and citations of Foucault within the knowledge organization field as a first-year MLIS student, and a newcomer to this domain. I found that the majority of Foucauldian LIS scholarship was anchored primarily, often even solely, in his cornerstone work Discipline & Punish. Of course I was enthused to see the nods [cite and summarize], but my heart fell a bit. My favourite work of his, which explicitly addresses taxonomy and classification as historical subjects, was barely cited at all within the field.
+
+I cast my digital net further, and confirmed that since I last studied this book, very little work has been put onto the internet which references it. 
+
+* what led me to create this digital knowledge-object
+*  situate the multimedia element of the object and how I tried to challenge myself
+
+
 * with what I'd argue is an increasing relevance of Foucault's [power-knowledge concept](https://en.wikipedia.org/wiki/Power-knowledge) in modern "network societies" [h/t Manuel Castells](https://www.hiig.de/en/revisiting-castells-network-society/amp/), I intend to bring this, one of Foucault's most distinctive works, into the LIS dialogue
 
 # 2 - Cultural Warrant for Digital Remix

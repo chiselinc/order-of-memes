@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Preface
-permalink: /p03/
+permalink: /preface/
 nav_order: 2
 ---
 

@@ -1,6 +1,6 @@
 ---
 layout: default
 title: The human sciences
-permalink: /p12/
+permalink: /humansciences/
 nav_order: 2
 ---
