@@ -13,7 +13,4 @@ The description of natural things based upon their visible elements, and the att
 
 [Lamarck](http://knarf.english.upenn.edu/People/lamarck.html#:~:text=Lamarck%2C%20studying%20Linnaeus's%20system,largely%20the%20work%20of%20Lamarck) took this further and provided the transition point where Darwin would pivot into full modernist disruption
 
-## Meme Options
-
-![option 1](../memes/naturalhistorymeme.jpg)
 ![option 2](../memes/naturalhistorytaxonomymeme.jpg)

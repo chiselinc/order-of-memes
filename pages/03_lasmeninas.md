@@ -15,5 +15,5 @@ The way Velasquez has framed this scene, we the viewers stand in the position of
 
 The mirror’s at a strange angle, the more you zoom in on details, all the perspective is slightly warped, resulting in “an oscillation between the interior and the exterior”, like a quantum see-saw of subjectivity - to Foucault, this painting illuminates the unique elements and space of representation in the prior Classical age (Foucault, 1970, p. 11)
 
-![Foucault2.png](Foucault2.png)
+![Foucault2.png](../Foucault2.png)
 
