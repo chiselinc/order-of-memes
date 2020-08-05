@@ -5,6 +5,8 @@ permalink: /exchanging/
 nav_order: 2
 ---
 
+![Exchanging](toot_exchanging_graphic.png)
+
 The analysis of prices outside of direct exchange was not an element of early Renaissance thought, 
 
 “The two functions of money, as a common measure between commodities and as a substitute in the mechanism of exchange, are based upon its material reality. A measure is stable, recognized as valid by everyone and in all places, if it has as a standard an assignable reality that can be compared to the diversity of things that one wishes to measure” (Foucault, 1970, p. 169)

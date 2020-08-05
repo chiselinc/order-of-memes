@@ -5,7 +5,7 @@ permalink: /speaking/
 nav_order: 2
 ---
 
-
+![Speaking](toot_speaking_graphic.png)
 
 Foucault points out how the increasing formalization of ordering-structure within individual fields of study allowed for the entrance of the comparative, and the abstract universal, as layers of analysis: “*General grammar is the study of verbal order in its relation to the simultaneity that it is its task to represent*. Its proper object is therefore neither thought nor any individual language, but *discourse*, understood as a sequence of verbal signs.” (Foucault, 1970, p. 83) In other words, where we'd take for granted that "discourse" has always been in existence, humans have only been self-aware of it for a relatively short period of time.
 

@@ -5,6 +5,8 @@ permalink: /lasmeninas/
 nav_order: 2
 ---
 
+![Las Meninas](toot_lasmeninas_graphic.png)
+
 In which Foucault describes a painting for more than ten pages straight!
 
 We traverse the subjects of this painting in order to broach the matter of “subject-ness” overall- this is Foucault’s real project in The Order of Things. How have we come to see ourselves as subjects in ways we may not have in past history?

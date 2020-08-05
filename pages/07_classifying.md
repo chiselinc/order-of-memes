@@ -5,6 +5,8 @@ permalink: /classifying/
 nav_order: 2
 ---
 
+![Classifying](toot_classifying_graphic.png)
+
 The description of natural things based upon their visible elements, and the attempt to establish a sense of ordered classes of “character” from those jumbled and diverse characteristics- 
 
 [Linnaeus](https://en.wikipedia.org/wiki/Systema_Naturae) introduced a system which was arbitrary and relative, but became the skeleton to an increasingly universalized and extensible framework for categorizing known life forms 

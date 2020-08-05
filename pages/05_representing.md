@@ -5,6 +5,9 @@ permalink: /representing/
 nav_order: 2
 ---
 
+
+![Representing](toot_representing_graphic2.png)
+
 [meme options at bottom]
 
 “Because the mind analyses, the sign appears. Because the mind [has signs at its disposal](https://en.wikipedia.org/wiki/Signified_and_signifier), analysis never ceases” (Foucault, 1970, p. 61)
