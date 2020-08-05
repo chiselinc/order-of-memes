@@ -5,7 +5,7 @@ permalink: /classifying/
 nav_order: 2
 ---
 
-![Classifying](toot_classifying_graphic.png)
+![Classifying](../graphics/toot_classifying_graphic.png)
 
 The description of natural things based upon their visible elements, and the attempt to establish a sense of ordered classes of “character” from those jumbled and diverse characteristics- 
 

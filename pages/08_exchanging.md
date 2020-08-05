@@ -5,7 +5,7 @@ permalink: /exchanging/
 nav_order: 2
 ---
 
-![Exchanging](toot_exchanging_graphic.png)
+![Exchanging](../graphics/toot_exchanging_graphic.png)
 
 The analysis of prices outside of direct exchange was not an element of early Renaissance thought, 
 

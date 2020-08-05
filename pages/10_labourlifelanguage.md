@@ -5,4 +5,4 @@ permalink: /labourlifelanguage/
 nav_order: 2
 ---
 
-![Labour, life, language](toot_LLL_graphic.png)
+![Labour, life, language](../graphics/toot_LLL_graphic.png)

@@ -6,7 +6,7 @@ nav_order: 2
 ---
 
 
-![Representing](toot_representing_graphic2.png)
+![Representing](../graphics/toot_representing_graphic2.png)
 
 [meme options at bottom]
 
@@ -23,5 +23,3 @@ We can think of this 'next level' of languaged communication, in which it become
 ![option 3](../memes/donquixotememe3.png)
 ![option 4](../memes/donquixotememe4.jpg)
 ![option 5](../memes/donquixotememe5.png)
-
-

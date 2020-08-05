@@ -5,7 +5,7 @@ permalink: /prose/
 nav_order: 2
 ---
 
-![The prose of the world](toot_prose_graphic.png)
+![The prose of the world](../graphics/toot_prose_graphic.png)
 
 Now that Foucault’s chattered about laughter, and described a painting at length, he’s comfortable getting down to brass taxes. He wants to bring us deep into a historical period, and finally start to broach some specific theses:
 

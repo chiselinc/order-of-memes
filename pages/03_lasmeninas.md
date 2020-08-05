@@ -5,7 +5,7 @@ permalink: /lasmeninas/
 nav_order: 2
 ---
 
-![Las Meninas](toot_lasmeninas_graphic.png)
+![Las Meninas](../graphics/toot_lasmeninas_graphic.png)
 
 In which Foucault describes a painting for more than ten pages straight!
 
