@@ -7,7 +7,6 @@ nav_order: 3
 
 # 1 - Introduction
 
-
 * the central "why" - I went to trace other uses of [Foucault's "The Order of Things"](https://en.wikipedia.org/wiki/The_Order_of_Things) within the LIS field, and found few citations upstream
 
 
@@ -20,6 +19,8 @@ I cast my digital net further, and confirmed that since I last studied this book
 
 
 * with what I'd argue is an increasing relevance of Foucault's [power-knowledge concept](https://en.wikipedia.org/wiki/Power-knowledge) in modern "network societies" [h/t Manuel Castells](https://www.hiig.de/en/revisiting-castells-network-society/amp/), I intend to bring this, one of Foucault's most distinctive works, into the LIS dialogue
+
+![Foucault meme on word count](../memes/foucaultwordcount.jpg)
 
 # 2 - Cultural Warrant for Digital Remix
 
