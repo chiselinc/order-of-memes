@@ -6,20 +6,12 @@ nav_order: 2
 ---
 
 |:---------------------------------|:------------------------------------------------------|
-| “This foreword should perhaps    | Foucault explains the ambitious project of this text: |
-| be headed ‘Directions for Use.’” | to produce a cross-section of different disciplines   |
-| (Foucault, 1970, p. ix)          | which massively shifted at certain periods of time,   |
+| “This foreword should perhaps  be headed ‘Directions for Use.’”  (Foucault, 1970, p. ix) | Foucault explains the ambitious project of this text: to produce a cross-section of different disciplines which massively shifted at certain periods of time, and trace whether those might all be anchored in the shift of norms of knowledge production itself. |
+
 
 With this **archaeology** he wasn't trying to trace backwards from the present to find longitudinal causation.
 
 Instead he was interested in zooming in from a bird's eye timeline view to investigate apparent disruptions at the event-level.
-
-------------------------------------------------------------------------------------------------
-“This foreword should perhaps be headed ‘Directions for Use.’” (Foucault, 1970, p. ix)
-
-Foucault explains the ambitious project of this text: he seeks to produce a cross-section of different disciplines which massively shifted at certain periods of time, and trace whether those might all be anchored in the shift of norms of knowledge production itself.
-
-Foucault sought not to trace back longitudinal causation but rather noticeable disruption.
 
 He claims his goal “is to reveal a [positive](https://en.wikipedia.org/wiki/Symptom#Positive_and_negative) [unconscious](https://www.lacanonline.com/2017/04/whats-so-unconscious-about-the-unconscious/) of knowledge” (Foucault, 1970, p. xi)
 
