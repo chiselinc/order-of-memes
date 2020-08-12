@@ -14,6 +14,9 @@ The analysis of prices outside of direct exchange was not an element of early Re
 
 ![economy meme](../memes/economymeme.png)
 
+![exchange meme](../memes/exchangemoneymeme.jpg)
+
+
 “For Classical thought in its formative phase, money is that which permits wealth to be represented. Without such signs, wealth would remain immobile, useless, and as it were silent [...] it is in its quality as a universal sign that it becomes a rare and unequally distributed commodity” (Foucault, 1970, p. 177)
 
 “There can therefore be no fair price: nothing in any given commodity indicates by any intrinsic character the quantity of money that should be paid for it. Cheapness is neither more nor less exact than dearness” (Foucault, 1970, p. 184)
