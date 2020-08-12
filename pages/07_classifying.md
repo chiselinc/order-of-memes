@@ -8,7 +8,7 @@ nav_order: 2
 # Classifying 
 
 |:---------------------------------|:------------------------------------------------------|
-The description of natural things based upon their visible elements, and the attempt to establish a sense of ordered classes of “character” from those jumbled and diverse characteristics, leads humans in the Classical Age to move beyond just "drawing things together" and well into the realm of "discriminating between things based on pre-existing frameworks." *Rudimentary* frameworks at this stage, but still.
+Attempts to establish a sense of ordered classes of “character” from the visible elements of the natural world lead humanity in the Classical Age to move beyond just "drawing things together" and well into the realm of "discriminating between things based on pre-existing frameworks." *Rudimentary* frameworks at this stage, but still.
 
 Foucault gives the excellent illustration of the incremental journey towards biological taxonomy as indicative of this shift in order and knowledge:
 
