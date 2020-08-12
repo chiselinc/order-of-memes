@@ -14,6 +14,7 @@ nav_order: 2
 ![quixote tilting at windmills](../memes/quixotetableau.png)
 
 |:---------------------------------|:------------------------------------------------------|
+
 | We can think of this 'next level' of language, in which it becomes formalized and requires a more participatory social layer, to parallel software code. | It is both a set of instructions, and the means by which to execute those instructions. **Tilting at windmills!** |
 
 ![Representing](../graphics/toot_representing_graphic2.png)
