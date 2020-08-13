@@ -6,6 +6,7 @@ nav_order: 2
 ---
 # The Prose of the World
 
+| Words | Pictures |
 |:---------------------------------|:------------------------------------------------------|
 | Now that Foucault’s <br> <br> chattered about laughter, <br> <br> and described a painting at length, <br> <br> he finally starts <br> <br> to broach some specific theses.|  ![what really went down](../memes/middleageswtf.jpg) |
 | Representation throughout  <br> <br> the Renaissance period <br> <br> was all about similitude-  <br> <br> meaning every navigation <br> <br> of knowledge was <br> <br> a fresh evaluation <br> <br> of seemingly opaque signs. | ![this could have happened back then](../memes/oldschoolmeme.jpg) |

@@ -7,7 +7,10 @@ nav_order: 2
 
 # The Human Sciences
 
+| Words | Pictures |
 |:---------------------------------|:------------------------------------------------------|
-![option 1](../memes/wiseinthewaysofscience.png)
+| | ![wise in the ways of science](../memes/wiseinthewaysofscience.png) |
+| | ![humans on earth](../memes/humansearth.jpg) |
+| | ![trolley meme](../memes/trolleymeme.png) |
 
 ![The human sciences](../graphics/toot_humansciences_graphic.png)
