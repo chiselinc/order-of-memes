@@ -10,7 +10,7 @@ nav_order: 2
 
 | Words | Pictures |
 |:---------------------------------|:------------------------------------------------------|
-| The title of this chapter covers the broad realm where Foucault locates the focus of the empirical sciences. Here he returns to many of the topics he covered in-depth in the first half of the book, and positions them more explicitly in terms of the disruptive thinkers in each field which led us towards, in Foucault's eyes, the "creation of Man" and the birth of the Modern episteme. | ![conceptualizing time](../memes/marxtime.jpg) |
+| "Labour," "Life," and "Language" cover the broad realm <br> where Foucault locates the focus <br> of the empirical sciences. <br> <br> Here he returns to many of the topics <br> he covered in-depth earlier in the book, <br> and positions them more explicitly <br> in terms of the disruptive thinkers in each field which led us towards, in Foucault's eyes, the "creation of Man" and the birth of the Modern episteme. | ![conceptualizing time](../memes/marxtime.jpg) |
 | | ![I don't know](../memes/dontknow.jpg) |
 | | ![I think they're neat](../memes/naturalhistorymeme.jpg) |
 

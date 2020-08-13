@@ -10,8 +10,8 @@ nav_order: 2
 
 | Words | Pictures |
 |:---------------------------------|:------------------------------------------------------|
-| Here's where Foucault shifts gears from topical deep-dives to orient his larger archaeological investigation. We return to a concept he first broached in "The Prose of the World" - **limits**. | ![limits to understanding](../memes/limitsunderstanding.jpg) |
-| In the Renaissance, he was interested in the structural limits of representation for its subjects. As we move through investigating the shifts of the Classical Age, and into the Modern, we encounter a different type of limit- the self-conscious limits of systems which humans have begun to architect to lend frames of order to the chaotic world, and to better understand themselves. | ![mixed memes](../memes/mixedmemes.png) |
+| Here's where Foucault shifts gears <br> from topical deep-diving <br> to orient his larger archaeological investigation. <br> <br> We return to a concept he first broached <br> in "The Prose of the World" <br> - **limits**. | ![limits to understanding](../memes/limitsunderstanding.jpg) |
+| In the Renaissance, he focused on <br> the structural limits of representation <br> for its subjects. <br> <br> As we move through investigating <br> the shifts of the Classical Age, <br> and into the Modern, <br> we encounter a different type of limit: <br> the self-conscious limits of systems <br> which humans have co-created <br> to lend frames of order to the chaotic world, <br> and to better understand themselves. <br> <br> For at last, we started to have <br> "selves" to understand! | ![mixed memes](../memes/mixedmemes.png) |
 | | ![Kant Woke](../memes/kantwoke.jpg) |
 
 ![The limits of representation](../graphics/toot_limits_graphic.png)
