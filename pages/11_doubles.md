@@ -13,4 +13,6 @@ Here's where Foucault really gets into his element, wading into both philosophy 
 
 He points towards the cascading inward spiral of reflexive thought, the series of "doubles" created within human reflection by making "Man" increasingly the object of human thought.
 
+![Being and Time and Being a Human](../memes/humanbeing.png)
+
 ![Man and his doubles](../graphics/toot_doubles_graphic.png)
