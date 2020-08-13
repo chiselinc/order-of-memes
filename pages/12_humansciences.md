@@ -11,6 +11,6 @@ nav_order: 2
 |:---------------------------------|:------------------------------------------------------|
 | | ![wise in the ways of science](../memes/wiseinthewaysofscience.png) |
 | | ![humans on earth](../memes/humansearth.jpg) |
-| | ![trolley meme](../memes/trolleymeme.png) |
+| | ![trolley meme](../memes/trollymeme.png) |
 
 ![The human sciences](../graphics/toot_humansciences_graphic.png)
