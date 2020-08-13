@@ -1,6 +1,6 @@
 ---
 layout: default
-title: The Limits of representation
+title: The limits of representation
 permalink: /limits/
 nav_order: 2
 ---
