@@ -2,6 +2,7 @@
 layout: default
 title: The prose of the world
 permalink: /prose/
+parent: The Order of Memes
 nav_order: 2
 ---
 # The Prose of the World

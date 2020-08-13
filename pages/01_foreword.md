@@ -2,6 +2,7 @@
 layout: default
 title: Foreword
 permalink: /foreword/
+parent: The Order of Memes
 nav_order: 2
 ---
 

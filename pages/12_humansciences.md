@@ -2,6 +2,7 @@
 layout: default
 title: The human sciences
 permalink: /humansciences/
+parent: The Order of Memes
 nav_order: 2
 ---
 

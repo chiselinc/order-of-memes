@@ -2,6 +2,7 @@
 layout: default
 title: Exchanging
 permalink: /exchanging/
+parent: The Order of Memes
 nav_order: 2
 ---
 

@@ -2,6 +2,7 @@
 layout: default
 title: Preface
 permalink: /preface/
+parent: The Order of Memes
 nav_order: 2
 ---
 # Preface

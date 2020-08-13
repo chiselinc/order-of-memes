@@ -2,6 +2,7 @@
 layout: default
 title: The limits of representation
 permalink: /limits/
+parent: The Order of Memes
 nav_order: 2
 ---
 

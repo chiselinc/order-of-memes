@@ -2,6 +2,7 @@
 layout: default
 title: Classifying
 permalink: /classifying/
+parent: The Order of Memes
 nav_order: 2
 ---
 

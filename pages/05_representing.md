@@ -2,6 +2,7 @@
 layout: default
 title: Representing
 permalink: /representing/
+parent: The Order of Memes
 nav_order: 2
 ---
 

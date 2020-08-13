@@ -2,6 +2,7 @@
 layout: default
 title: Speaking
 permalink: /speaking/
+parent: The Order of Memes
 nav_order: 2
 ---
 

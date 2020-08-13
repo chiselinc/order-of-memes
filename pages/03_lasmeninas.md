@@ -2,6 +2,7 @@
 layout: default
 title: Las Meninas
 permalink: /lasmeninas/
+parent: The Order of Memes
 nav_order: 2
 ---
 
