@@ -7,14 +7,12 @@ nav_order: 2
 
 # Representing
 
+| Words | Pictures |
 |:---------------------------------|:------------------------------------------------------|
-| “Because the mind analyses, the sign appears. Because the mind [has signs at its disposal](https://en.wikipedia.org/wiki/Signified_and_signifier), analysis never ceases” (Foucault, 1970, p. 61). | 'Making sense' gains a longitudinal and more systemic dimension leading onward from the Classical age. Instead of always 'drawing things together' from face value, we begin to *discriminate* based upon rudimentary frameworks of order- *pure analogy* gives way to *gradual analysis* (Foucault, 1970, p. 55). |
-| In other words, representation and interpretation moves beyond a flat field of signs, and starts to incorporate rulesets and action. | Signs stop living in the physical world alone, and enter our minds as representative triggers for knowledge and discernment. |
-
-![quixote tilting at windmills](../memes/quixotetableau.png)
-
-|:---------------------------------|:------------------------------------------------------|
-
-| We can think of this 'next level' of language, in which it becomes formalized and requires a more participatory social layer, to parallel software code. | It is both a set of instructions, and the means by which to execute those instructions. **Tilting at windmills!** |
+| “Because the mind analyses, the sign appears. <br> <br> Because the mind [has signs at its disposal](https://en.wikipedia.org/wiki/Signified_and_signifier), <br> <br> analysis never ceases” (Foucault, 1970, p. 61). | ![Don Quixote meme](../memes/donquixotememe3.png) | 
+|'Making sense' gains a longitudinal <br> <br> and more systemic dimension <br> <br> leading onward from the Classical age. | ![Don Quixote meme](../memes/donquixotememe1.jpg) | 
+|Instead of always 'drawing things together' from face value, <br> <br> we begin to *discriminate* based upon rudimentary frameworks of order- <br> <br> **pure analogy** gives way to **gradual analysis**. | ![Don Quixote meme](../memes/donquixotememe4.jpg) |
+| In other words, <br> <br> **representation** and **interpretation** <br> <br> move beyond a flat field of signs, <br> <br> and start incorporating **rulesets** and **action**. <br> <br> Signs stop living in the physical world alone, <br> <br> and *enter our minds* to reside there <br> <br> as representative triggers for **knowledge** and **discernment**. | ![Don Quixote meme](../memes/donquixotememe5.png) |
+| We can think of this 'next level' of language <br> <br> as formalizes expected action in writing, <br> <br> in parallel to software code: <br> <br> It is both a set of instructions, <br> <br>and the means by which to execute those instructions. <br> <br> **Tilting at windmills!** | ![Don Quixote meme](../memes/donquixotememe2.png) |
 
 ![Representing](../graphics/toot_representing_graphic2.png)
