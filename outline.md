@@ -2,7 +2,7 @@
 layout: default
 title: LIS Reflection Paper Outline
 permalink: /outline/
-nav_order: 3
+nav_order: 
 ---
 
 # 1 - Introduction
