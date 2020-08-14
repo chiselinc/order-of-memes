@@ -1,12 +1,12 @@
 ---
 layout: default
-title: Foreword
-permalink: /foreword/
+title: Directions for use
+permalink: /directions/
 parent: The Order of Memes
 nav_order: 2
 ---
 
-# Foreword
+# "Directions For Use"
 
 | Words | Pictures |
 |:---------------------------------|:------------------------------------------------------|
