@@ -10,8 +10,8 @@ nav_order: 2
 
 | Words | Pictures |
 |:---------------------------------|:------------------------------------------------------|
-|  | ![wise in the ways of science](../memes/wiseinthewaysofscience.png) |
-|  | ![humans on earth](../memes/humansearth.jpg) |
-|  | ![trolley meme](../memes/trollymeme.png) |
+| Where Classical thinkers <br> interpreted opaque signs of the earth, <br> Modern thinkers began to impose <br> socially constructed layers of meaning over everything. | ![humans on earth](../memes/humansearth.jpg) |
+| Modern thinkers carved out new discourses, <br> which Foucault termed "the human sciences", <br> in which they were many ways <br> primarily studying their newly constructed "selves" <br> plastered and projected onto the face of the world. | ![wise in the ways of science](../memes/wiseinthewaysofscience.png) |
+| Our clever discourses trick us into thinking <br> Modern humans were clever enough to detect <br> hidden truths that were there throughout time. <br> <br> Instead, Foucault suggests these Modern "truths" <br> are projected narratives persisting throughout <br> relatively recent, but still well-established, <br> systems of power and knowledge. | ![trolley meme](../memes/trollymeme.png) |
 
 ![The human sciences](../graphics/toot_humansciences_graphic.png)
