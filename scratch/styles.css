@@ -1,0 +1,17 @@
+.left {
+  float: left;
+  width: 40%;
+}
+
+.right {
+  float: left;
+  margin-top: 50px;
+}
+
+a {
+  text-decoration: none;
+}
+
+ul {
+  list-style-type: none;
+}
